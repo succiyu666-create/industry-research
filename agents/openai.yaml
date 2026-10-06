@@ -1,0 +1,4 @@
+interface:
+  display_name: "行业六问"
+  short_description: "通过边界、资金、价值、利润、风险与变化建立完整行业认知模型"
+  default_prompt: "使用 $industry-six-questions 分析一个行业的边界、资金、价值、利润、风险与变化。"
